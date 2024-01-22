@@ -1,0 +1,9 @@
+Input string: 011
+States visited: q1 q2 q2
+Accepted
+Input string: 01010
+States visited: q1 q2 q3 q4 q4
+Accepted
+Input string: 01011
+States visited: q1 q2 q3 q4 q1
+Rejected
